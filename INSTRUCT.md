@@ -1,4 +1,4 @@
-# Hacktober_Bash
+# Hacktober Bash
 This is a public repository open to  for anyone and everyone who wants to participate at Digital Ocean's HacktoberFest, feel free to pull a request for your awesome project that you want to share for Hacktoberfest.
 
 ##### Hacktober what?.. 
@@ -26,8 +26,7 @@ an example:
 - Complete a total of 4 PR.
 - Wait for your T-Shirt.
 
-### Check your Progress 
-[here](https://hacktoberfest.digitalocean.com/details)
+#### Check your Progress, [Here](https://hacktoberfest.digitalocean.com/details)
 
 ### Rules:
 -[] Create a Folder in the parent Directory as your project name.
@@ -37,5 +36,11 @@ an example:
 
 ### Steps for a Pull Request:
 ```
-Install GIT - 
+// Install [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe)
+// Clone the Forked Repository.
+// Add your Code and Name(in the INSTRUCT.md)
+git add your_file_name.extension
+git commit -m "Your message"
+git push
+// Head back to your Forked Repo compare and Pull the Request.
 ```
