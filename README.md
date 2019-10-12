@@ -18,7 +18,7 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 ```
 an example:
 ```
-- [xritzx](https://github.com/xritzx)
+- [Ritankar Paul](https://github.com/xritzx)
 ```
 - At last pull a request to this repository.
 - Star this repository.(right corner :-P)
@@ -47,6 +47,7 @@ git push
 ```
 
 # CONTRIBUTORS
-[xritzx](https://github.com/xritzx)
+1. [Ritankar Paul](https://github.com/xritzx)
+2. [Dipan Roy](https://github.com/dipan29)
 
 ...your name...
