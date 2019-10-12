@@ -7,7 +7,7 @@ Taking first steps into Open Source at Digital Ocean's Hacktoberfest!
 
 ### What can I do here/ How do I participate?
 
-Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up and come back here and take a look at the [Contributions Guide](INSTRUCT.md) or do the following:
+Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up and come back here and take a look at the [Contributions Guide](README.md) or do the following:
 
 - Fork and then Clone this repositiory.
 - Add your Code that you want to share.
@@ -38,9 +38,13 @@ an example:
 ```
 // Install [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe)
 // Clone the Forked Repository.
-// Add your Code and Name(in the INSTRUCT.md)
+// Add your Code and Name(in the README.md)
 git add your_file_name.extension
 git commit -m "Your message"
 git push
 // Head back to your Forked Repo compare and Pull the Request.
 ```
+
+# CONTRIBUTORS
+[xritzx](https://github.com/xritzx)
+...your name...
