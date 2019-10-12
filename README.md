@@ -49,6 +49,6 @@ git push
 # CONTRIBUTORS
 1. [Ritankar Paul](https://github.com/xritzx)
 2. [Dipan Roy](https://github.com/dipan29)
-3. [Ayush Singh](https://github.com/DeathNaughT-GitHub)
+3. [Ayush Singh ](https://github.com/DeathNaughT-GitHub)
 
 ...your name...
