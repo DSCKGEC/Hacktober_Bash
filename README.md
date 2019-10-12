@@ -47,6 +47,6 @@ git push
 ```
 
 # CONTRIBUTORS
-[xritzx](https://github.com/xritzx)
+[xritzx](https://github.com/xritzx) <br />
 [DeathNaughT](https://github/DeathNaughT-GitHub)
 ...your name...
