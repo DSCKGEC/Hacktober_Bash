@@ -29,14 +29,15 @@ an example:
 #### Check your Progress, [Here](https://hacktoberfest.digitalocean.com/details)
 
 ### Rules:
--[] Create a Folder in the parent Directory as your project name.
--[] Make sure you add a README.md file so that your friends can make sense out of it.
--[] Don't Copy up articles or code from any external source you must own the code.
--[] You should be humble while discussing in the issues sections.
+- Create a Folder in the parent Directory as your project name.
+- Make sure you add a README.md file so that your friends can make sense out of it.
+- Don't Copy up articles or code from any external source you must own the code.
+- You should be humble while discussing in the issues sections.
 
 ### Steps for a Pull Request:
+GET [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe) .
 ```
-// Install [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe)
+// Install GIT
 // Clone the Forked Repository.
 // Add your Code and Name(in the README.md)
 git add your_file_name.extension
