@@ -14,11 +14,11 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 - Add/append your details into the `README.md` in the format:
 
 ```
-- [Name](link_to_github)
+- <br />[Name](link_to_github)
 ```
 an example:
 ```
-- [xritzx](https://github.com/xritzx)
+- <br />[xritzx](https://github.com/xritzx)
 ```
 - At last pull a request to this repository.
 - Star this repository.(right corner :-P)
