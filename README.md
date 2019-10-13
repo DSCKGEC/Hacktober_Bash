@@ -50,8 +50,5 @@ git push
 1. [Ritankar Paul](https://github.com/xritzx)
 2. [Dipan Roy](https://github.com/dipan29)
 3. [Klodya](https://github.com/klodya)
-<<<<<<< HEAD
-=======
 4. [Ayush Singh](https://github.com/DeathNaughT-Github)
->>>>>>> 8e611837d5d8329c1db377819e5e25af02f3f59c
 ...your name...
