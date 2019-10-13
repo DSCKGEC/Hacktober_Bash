@@ -14,11 +14,11 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 - Add/append your details into the `README.md` in the format:
 
 ```
-- <br />[Name](link_to_github)
+- [Name](link_to_github)
 ```
 an example:
 ```
-- <br />[Ritankar Paul](https://github.com/xritzx)
+- [Ritankar Paul](https://github.com/xritzx)
 ```
 - At last pull a request to this repository.
 - Star this repository.(right corner :-P)
@@ -51,4 +51,4 @@ git push
 2. [Dipan Roy](https://github.com/dipan29)
 3. [Klodya](https://github.com/klodya)
 4. [Ayush Singh](https://github.com/DeathNaughT-Github)
-...your name...
+<br />...your name...
