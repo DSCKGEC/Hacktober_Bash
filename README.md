@@ -7,7 +7,7 @@ Taking first steps into Open Source at Digital Ocean's Hacktoberfest!
 
 ### What can I do here/ How do I participate?
 
-Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up and come back here and take a look at the [Contributions Guide](INSTRUCT.md) or do the following:
+Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up and come back here and take a look at the [Contributions Guide](README.md) or do the following:
 
 - Fork and then Clone this repositiory.
 - Add your Code that you want to share.
@@ -18,7 +18,7 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 ```
 an example:
 ```
-- [xritzx](https://github.com/xritzx)
+- [Ritankar Paul](https://github.com/xritzx)
 ```
 - At last pull a request to this repository.
 - Star this repository.(right corner :-P)
@@ -29,18 +29,25 @@ an example:
 #### Check your Progress, [Here](https://hacktoberfest.digitalocean.com/details)
 
 ### Rules:
--[] Create a Folder in the parent Directory as your project name.
--[] Make sure you add a README.md file so that your friends can make sense out of it.
--[] Don't Copy up articles or code from any external source you must own the code.
--[] You should be humble while discussing in the issues sections.
+- Create a Folder in the parent Directory as your project name.
+- Make sure you add a README.md file so that your friends can make sense out of it.
+- Don't Copy up articles or code from any external source you must own the code.
+- You should be humble while discussing in the issues sections.
 
 ### Steps for a Pull Request:
+GET [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe) .
 ```
-// Install [GIT](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe)
+// Install GIT
 // Clone the Forked Repository.
-// Add your Code and Name(in the INSTRUCT.md)
+// Add your Code and Name(in the README.md)
 git add your_file_name.extension
 git commit -m "Your message"
 git push
 // Head back to your Forked Repo compare and Pull the Request.
 ```
+
+# CONTRIBUTORS
+1. [Ritankar Paul](https://github.com/xritzx)
+2. [Dipan Roy](https://github.com/dipan29)
+
+...your name...
