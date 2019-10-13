@@ -14,11 +14,11 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 - Add/append your details into the `README.md` in the format:
 
 ```
-- [Name](link_to_github)
+- <br />[Name](link_to_github)
 ```
 an example:
 ```
-- [Ritankar Paul](https://github.com/xritzx)
+- <br />[Ritankar Paul](https://github.com/xritzx)
 ```
 - At last pull a request to this repository.
 - Star this repository.(right corner :-P)
@@ -26,7 +26,7 @@ an example:
 - Complete a total of 4 PR.
 - Wait for your T-Shirt.
 
-#### Check your Progress, [Here](https://hacktoberfest.digitalocean.com/details)
+#### Check your Progress, [here](https://hacktoberfest.digitalocean.com/details)
 
 ### Rules:
 - Create a Folder in the parent Directory as your project name.
@@ -50,4 +50,8 @@ git push
 1. [Ritankar Paul](https://github.com/xritzx)
 2. [Dipan Roy](https://github.com/dipan29)
 3. [Klodya](https://github.com/klodya)
+<<<<<<< HEAD
+=======
+4. [Ayush Singh](https://github.com/DeathNaughT-Github)
+>>>>>>> 8e611837d5d8329c1db377819e5e25af02f3f59c
 ...your name...
