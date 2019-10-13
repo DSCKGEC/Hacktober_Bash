@@ -26,7 +26,7 @@ an example:
 - Complete a total of 4 PR.
 - Wait for your T-Shirt.
 
-#### Check your Progress, [Here](https://hacktoberfest.digitalocean.com/details)
+#### Check your Progress, [here](https://hacktoberfest.digitalocean.com/details)
 
 ### Rules:
 - Create a Folder in the parent Directory as your project name.
@@ -53,3 +53,4 @@ git push
 4. [Ayush Singh ](https://github.com/DeathNaughT-GitHub)
 
 ...your name...
+
