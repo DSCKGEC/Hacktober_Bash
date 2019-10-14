@@ -63,6 +63,7 @@ git push
 5. [Eren Hançer](https://github.com/ErenHncr)
 6. [Sagnik Chatterjee](https://github.com/sagnik20)
 7. [Ayushman Bilas THakur](https://github.com/AyushmanBilasThakur)
+8. [Azmi Nawwar](https://github.com/azminawwar)
 
 
 ...your name...
