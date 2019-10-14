@@ -61,7 +61,8 @@ git push
 3. [Klodya](https://github.com/klodya)
 4. [Ayush Singh ](https://github.com/DeathNaughT-GitHub)
 5. [Eren Hançer](https://github.com/ErenHncr)
-6. [Ayushman Bilas THakur](https://github.com/AyushmanBilasThakur)
+6. [Sagnik Chatterjee](https://github.com/sagnik20)
+7. [Ayushman Bilas THakur](https://github.com/AyushmanBilasThakur)
 
 
 ...your name...
