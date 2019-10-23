@@ -1,4 +1,4 @@
-# Hacktober Bash
+﻿# Hacktober Bash
 
 This is a public repository open to for anyone and everyone who wants to participate at Digital Ocean's HacktoberFest, feel free to pull a request for your awesome project that you want to share for Hacktoberfest.
 
@@ -65,5 +65,5 @@ git push
 7. [Ayushman Bilas THakur](https://github.com/AyushmanBilasThakur)
 8. [Darshan Sen](https://github.com/RaisinTen)
 9. [Azmi Nawwar](https://github.com/azminawwar)
-10. [Suchana Chakrabarti](https://github.com/Suchana34)
+10. [Suchana Chakrabarti](https://github.com/Suchana34)11.[Manish Pandey](https://github.com/InvincibleNobita)
 ...your name...
