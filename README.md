@@ -65,5 +65,9 @@ git push
 7. [Ayushman Bilas THakur](https://github.com/AyushmanBilasThakur)
 8. [Darshan Sen](https://github.com/RaisinTen)
 9. [Azmi Nawwar](https://github.com/azminawwar)
-10. [Suchana Chakrabarti](https://github.com/Suchana34)11.[Manish Pandey](https://github.com/InvincibleNobita)
+10. [Suchana Chakrabarti](https://github.com/Suchana34)
+11. [Dony Cisneros](https://github.com/donycisneros)
+12. [Jennifer Gonzalez](https://github.com/donycisneros)
+13. [Juan Perez](https://github.com/juanmarcosperez)
+14.[Manish Pandey](https://github.com/InvincibleNobita)
 ...your name...

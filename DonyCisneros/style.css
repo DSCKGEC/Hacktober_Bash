@@ -1,0 +1,142 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #152347;
+}
+
+::selection {
+  background: #fff200;
+  color: #000000;
+}
+
+.hacktoberfest {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Jua', sans-serif;  
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin: 5rem 0;
+  color: #15ff00;
+}
+
+.hide {
+  display: none;
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+}
+
+.code-box,
+.view-box {
+  width: 600px;
+  padding: 2.5rem;
+  margin: 1.5rem;
+  border-radius: 7px;
+  box-shadow: 0px 2px 3px 0px rgba(50,50,50,0.11);
+}
+
+.code-box {
+  font-size: 13px;
+  color: #ffffff;
+  background-color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.view-box { 
+  border: 1px solid #c3c3c3;
+  background-color: #ffffff;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.welcome-text {
+  margin-top: 0;
+}
+
+.spaces {
+  margin-left: 16px;
+}
+
+.tag { color: #ff6464; }
+.vue-code { color: #ffbb78; }
+.string-code { color: #6cffa2; }
+
+.link-btn {
+  border: none;
+  margin: 5rem 0;
+  cursor: pointer;
+  font-size: 20px;
+  color: #152347;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  background-color: #15ff00;
+  font-family: 'Jua', sans-serif;
+}
+
+.link-btn:hover { background-color: #15d803; }
+.link-btn:focus { background-color: #11a703; }
+
+.text-input {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  overflow: auto;
+  white-space: nowrap;
+  height: 30px;
+}
+
+.input-model {
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid #b9b9b9;
+  outline: none;
+  width: 250px;
+}
+
+.hide-text {
+  margin-left: 16px;
+  padding: 4px 8px;
+  background-color: #c3edff;
+}
+
+.reverse-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  padding: 4px 8px;
+  background-color: #c3edff;
+}
+
+.action-btn {
+  background-color: #d7b2ff;
+  border: none;
+  border-radius: 3px;
+  padding: 8px 16px;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0px 2px 3px 0px rgba(50,50,50,0.11);
+}
+
+.action-btn:hover { background-color: #c086ff; }
+.action-btn:active { background-color: #ae63ff; }
