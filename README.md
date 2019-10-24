@@ -1,4 +1,4 @@
-# Hacktober Bash
+﻿# Hacktober Bash
 
 This is a public repository open to for anyone and everyone who wants to participate at Digital Ocean's HacktoberFest, feel free to pull a request for your awesome project that you want to share for Hacktoberfest.
 
@@ -67,5 +67,8 @@ git push
 9. [Azmi Nawwar](https://github.com/azminawwar)
 10. [Suchana Chakrabarti](https://github.com/Suchana34)
 11. [Dony Cisneros](https://github.com/donycisneros)
-12. [Agni Sain](https://github.com/agnisain123)
+12. [Jennifer Gonzalez](https://github.com/donycisneros)
+13. [Juan Perez](https://github.com/juanmarcosperez)
+14.[Manish Pandey](https://github.com/InvincibleNobita)
+15. [Agni Sain](https://github.com/agnisain123)
 ...your name...
